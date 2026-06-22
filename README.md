@@ -1,4 +1,6 @@
-# Antenna Deployer Module
+﻿# Antenna Deployer Module
+
+> Public archive note: this repository is a portfolio/demo-safe version prepared from private working repositories/materials; sensitive details, credentials, raw logs, and proprietary context are intentionally omitted.
 
 Clean public archive of source, reports, and test evidence for a CubeSat antenna deployment subsystem. This repository is a recruiter-friendly writeup of the design approach and validation flow; sensitive mission details, proprietary drawings, and flight-specific parameters are intentionally omitted.
 
